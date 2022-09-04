@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://github.com/jeffstagg/jeffstagg/blob/main/room.gif" />
+<img width="50%" align="right" alt="Github" src="https://github.com/jeffstagg/jeffstagg/blob/main/room.gif" />
 
 I'm a cloud architect who primarily works on the Azure stack. My interests include home automation and information security.
 

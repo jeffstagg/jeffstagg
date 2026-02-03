@@ -6,5 +6,4 @@ I'm a cloud architect who works primarily on the Azure stack professionally. My 
 
 - 🔭 I’m currently employed as a Lead Solutions Architect.
 - ☀️ I'm interested in reusable energy / Solarpunk nerd.
-- 👯 I’m looking for interesting self-hosted projects to contribute to. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jeffstagg)
